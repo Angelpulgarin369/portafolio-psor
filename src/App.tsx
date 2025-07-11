@@ -201,7 +201,7 @@ function App() {
     </p>
 
     <p className="invitacion-asignatura">
-      🎯 ¡𝐓𝐞 𝐢𝐧𝐯𝐢𝐭𝐨 𝐚 𝐞𝐱𝐩𝐥𝐨𝐫𝐚𝐫 𝐦𝐢𝐬 𝐞𝐯𝐢𝐝𝐞𝐧𝐜𝐢𝐚𝐬 𝐚𝐜𝐚𝐝é𝐦𝐢𝐜𝐚𝐬! 𝐃𝐞𝐬𝐜𝐮𝐛𝐫𝐞 𝐥𝐨 𝐪𝐮𝐞 𝐚𝐩𝐫𝐞𝐧𝐝í 𝐲 𝐜ó𝐦𝐨 𝐩𝐮𝐞𝐝𝐨 𝐚𝐩𝐥𝐢𝐜𝐚𝐫𝐥𝐨 𝐞𝐧 𝐞𝐥 𝐦𝐮𝐧𝐝𝐨 𝐥𝐚𝐛𝐨𝐫𝐚𝐥 𝐝𝐞𝐬𝐝𝐞 𝐦𝐢𝐬 𝐩𝐫𝐢𝐦𝐞𝐫𝐚𝐬 𝐩𝐫á𝐜𝐭𝐢𝐜𝐚𝐬:
+      🎯 ¡𝐓𝐞 𝐢𝐧𝐯𝐢𝐭𝐨 𝐚 𝐞𝐱𝐩𝐥𝐨𝐫𝐚𝐫 𝐦𝐢 𝐞𝐯𝐢𝐝𝐞𝐧𝐜𝐢𝐚 𝐚𝐜𝐚𝐝é𝐦𝐢𝐜𝐚! 𝐃𝐞𝐬𝐜𝐮𝐛𝐫𝐞 𝐥𝐨 𝐪𝐮𝐞 𝐚𝐩𝐫𝐞𝐧𝐝í 𝐲 𝐜ó𝐦𝐨 𝐩𝐮𝐞𝐝𝐨 𝐚𝐩𝐥𝐢𝐜𝐚𝐫𝐥𝐨 𝐞𝐧 𝐞𝐥 𝐦𝐮𝐧𝐝𝐨 𝐥𝐚𝐛𝐨𝐫𝐚𝐥 𝐝𝐞𝐬𝐝𝐞 𝐦𝐢𝐬 𝐩𝐫𝐢𝐦𝐞𝐫𝐚𝐬 𝐩𝐫á𝐜𝐭𝐢𝐜𝐚𝐬:
     </p>
 
     <a
@@ -233,7 +233,7 @@ function App() {
     </p>
 
     <p className="invitacion-asignatura">
-      🎯 ¡𝐓𝐞 𝐢𝐧𝐯𝐢𝐭𝐨 𝐚 𝐞𝐱𝐩𝐥𝐨𝐫𝐚𝐫 𝐦𝐢𝐬 𝐞𝐯𝐢𝐝𝐞𝐧𝐜𝐢𝐚𝐬 𝐚𝐜𝐚𝐝é𝐦𝐢𝐜𝐚𝐬! 𝐂𝐚𝐝𝐚 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨 𝐫𝐞𝐟𝐥𝐞𝐣𝐚 𝐦𝐢 𝐩𝐫𝐞𝐩𝐚𝐫𝐚𝐜𝐢ó𝐧 𝐩𝐚𝐫𝐚 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐢𝐫 𝐚𝐜𝐭𝐢𝐯𝐚𝐦𝐞𝐧𝐭𝐞 𝐞𝐧 á𝐫𝐞𝐚𝐬 𝐜𝐥𝐚𝐯𝐞 𝐝𝐞 𝐠𝐞𝐬𝐭𝐢ó𝐧 𝐡𝐮𝐦𝐚𝐧𝐚 𝐝𝐮𝐫𝐚𝐧𝐭𝐞 𝐦𝐢𝐬 𝐩𝐫á𝐜𝐭𝐢𝐜𝐚𝐬 𝐩𝐫𝐨𝐟𝐞𝐬𝐢𝐨𝐧𝐚𝐥𝐞𝐬:
+      🎯 ¡𝐓𝐞 𝐢𝐧𝐯𝐢𝐭𝐨 𝐚 𝐞𝐱𝐩𝐥𝐨𝐫𝐚𝐫 𝐦𝐢 𝐞𝐯𝐢𝐝𝐞𝐧𝐜𝐢𝐚 𝐚𝐜𝐚𝐝é𝐦𝐢𝐜𝐚! En el 𝐫𝐞𝐟𝐥𝐞𝐣𝐚 𝐦𝐢 𝐩𝐫𝐞𝐩𝐚𝐫𝐚𝐜𝐢ó𝐧 𝐩𝐚𝐫𝐚 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐢𝐫 𝐚𝐜𝐭𝐢𝐯𝐚𝐦𝐞𝐧𝐭𝐞 𝐞𝐧 á𝐫𝐞𝐚𝐬 𝐜𝐥𝐚𝐯𝐞 𝐝𝐞 𝐠𝐞𝐬𝐭𝐢ó𝐧 𝐡𝐮𝐦𝐚𝐧𝐚 𝐝𝐮𝐫𝐚𝐧𝐭𝐞 𝐦𝐢𝐬 𝐩𝐫á𝐜𝐭𝐢𝐜𝐚𝐬 𝐩𝐫𝐨𝐟𝐞𝐬𝐢𝐨𝐧𝐚𝐥𝐞𝐬:
     </p>
 
     <a
@@ -265,7 +265,7 @@ function App() {
     </p>
 
     <p className="invitacion-asignatura">
-      🎯 ¡𝐓𝐞 𝐢𝐧𝐯𝐢𝐭𝐨 𝐚 𝐫𝐞𝐯𝐢𝐬𝐚𝐫 𝐦𝐢𝐬 𝐞𝐯𝐢𝐝𝐞𝐧𝐜𝐢𝐚𝐬 𝐚𝐜𝐚𝐝é𝐦𝐢𝐜𝐚𝐬! 𝐂𝐚𝐝𝐚 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨 𝐝𝐞𝐦𝐮𝐞𝐬𝐭𝐫𝐚 𝐜ó𝐦𝐨 𝐩𝐮𝐞𝐝𝐨 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐢𝐫 𝐚 𝐥𝐨𝐬 𝐩𝐫𝐨𝐜𝐞𝐬𝐨𝐬 𝐝𝐞 𝐩𝐥𝐚𝐧𝐢𝐟𝐢𝐜𝐚𝐜𝐢ó𝐧 𝐲 𝐝𝐢𝐫𝐞𝐜𝐜𝐢ó𝐧 𝐝𝐞𝐬𝐝𝐞 𝐮𝐧 𝐞𝐧𝐟𝐨𝐪𝐮𝐞 𝐞𝐬𝐭𝐫𝐚𝐭é𝐠𝐢𝐜𝐨:
+      🎯 ¡𝐓𝐞 𝐢𝐧𝐯𝐢𝐭𝐨 𝐚 𝐫𝐞𝐯𝐢𝐬𝐚𝐫 𝐦𝐢 𝐞𝐯𝐢𝐝𝐞𝐧𝐜𝐢𝐚 𝐚𝐜𝐚𝐝é𝐦𝐢𝐜𝐚! En el 𝐝𝐞𝐦𝐮𝐞𝐬𝐭𝐫𝐚 𝐜ó𝐦𝐨 𝐩𝐮𝐞𝐝𝐨 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐢𝐫 𝐚 𝐥𝐨𝐬 𝐩𝐫𝐨𝐜𝐞𝐬𝐨𝐬 𝐝𝐞 𝐩𝐥𝐚𝐧𝐢𝐟𝐢𝐜𝐚𝐜𝐢ó𝐧 𝐲 𝐝𝐢𝐫𝐞𝐜𝐜𝐢ó𝐧 𝐝𝐞𝐬𝐝𝐞 𝐮𝐧 𝐞𝐧𝐟𝐨𝐪𝐮𝐞 𝐞𝐬𝐭𝐫𝐚𝐭é𝐠𝐢𝐜𝐨:
     </p>
 
     <a
@@ -298,7 +298,7 @@ function App() {
     </p>
 
     <p className="invitacion-asignatura">
-      💼 ¡𝐓𝐞 𝐢𝐧𝐯𝐢𝐭𝐨 𝐚 𝐫𝐞𝐯𝐢𝐬𝐚𝐫 𝐦𝐢𝐬 𝐞𝐧𝐭𝐫𝐞𝐠𝐚𝐬! 𝐂𝐚𝐝𝐚 𝐞𝐯𝐢𝐝𝐞𝐧𝐜𝐢𝐚 𝐝𝐞𝐦𝐮𝐞𝐬𝐭𝐫𝐚 𝐜ó𝐦𝐨 𝐥𝐚 𝐜𝐨𝐦𝐮𝐧𝐢𝐜𝐚𝐜𝐢ó𝐧 𝐩𝐮𝐞𝐝𝐞 𝐬𝐞𝐫 𝐮𝐧𝐚 𝐡𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚 𝐩𝐨𝐝𝐞𝐫𝐨𝐬𝐚 𝐩𝐚𝐫𝐚 𝐜𝐨𝐧𝐬𝐭𝐫𝐮𝐢𝐫 𝐜𝐮𝐥𝐭𝐮𝐫𝐚𝐬 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐜𝐢𝐨𝐧𝐚𝐥𝐞𝐬 𝐬ó𝐥𝐢𝐝𝐚𝐬 𝐲 𝐜𝐨𝐡𝐞𝐫𝐞𝐧𝐭𝐞𝐬:
+      💼 ¡𝐓𝐞 𝐢𝐧𝐯𝐢𝐭𝐨 𝐚 𝐫𝐞𝐯𝐢𝐬𝐚𝐫 𝐦𝐢 𝐞𝐧𝐭𝐫𝐞𝐠𝐚! En el 𝐝𝐞𝐦𝐮𝐞𝐬𝐭𝐫𝐚 𝐜ó𝐦𝐨 𝐥𝐚 𝐜𝐨𝐦𝐮𝐧𝐢𝐜𝐚𝐜𝐢ó𝐧 𝐩𝐮𝐞𝐝𝐞 𝐬𝐞𝐫 𝐮𝐧𝐚 𝐡𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚 𝐩𝐨𝐝𝐞𝐫𝐨𝐬𝐚 𝐩𝐚𝐫𝐚 𝐜𝐨𝐧𝐬𝐭𝐫𝐮𝐢𝐫 𝐜𝐮𝐥𝐭𝐮𝐫𝐚𝐬 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐜𝐢𝐨𝐧𝐚𝐥𝐞𝐬 𝐬ó𝐥𝐢𝐝𝐚𝐬 𝐲 𝐜𝐨𝐡𝐞𝐫𝐞𝐧𝐭𝐞𝐬:
     </p>
 
     <a
@@ -309,7 +309,7 @@ function App() {
     >
       📂 𝗩𝗲𝗿 𝗧𝗿𝗮𝗯𝗮𝗷𝗼 𝗣𝗿á𝗰𝘁𝗶𝗰𝗼
     </a>
-    
+
   </div>
 </div>
 </div>
