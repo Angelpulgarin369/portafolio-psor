@@ -1,7 +1,13 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
+// 👇 Este import es nuevo:
+import { ghPages } from 'vite-plugin-gh-pages'
+
 export default defineConfig({
-  plugins: [react()],
+  plugins: [
+    react(),
+    ghPages(), 
+  ],
+  base: '/portafolio-psor/', 
 })
