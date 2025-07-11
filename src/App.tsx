@@ -30,11 +30,11 @@ function App() {
       📄 𝗩𝗲𝗿 𝗖𝗩 &nbsp;|&nbsp;
     </a>
     <a 
-      href="https://www.dropbox.com/scl/fi/y4vjfkbfmvs0aikjxsci8/CV-Psicologia-Organizacional.pdf?rlkey=r12ibwl4xvdf0czhubrx6f8vc&st=rbpewjnc&dl=0" 
-      download
-    >
-      ⬇️ 𝗗𝗲𝘀𝗰𝗮𝗿𝗴𝗮𝗿 𝗖𝗩 &nbsp;|&nbsp;
-    </a>
+  href="https://www.dropbox.com/scl/fi/y4vjfkbfmvs0aikjxsci8/CV-Psicologia-Organizacional.pdf?rlkey=r12ibwl4xvdf0czhubrx6f8vc&st=rbpewjnc&dl=1" 
+  target="_blank"
+>
+  ⬇️ 𝗗𝗲𝘀𝗰𝗮𝗿𝗴𝗮𝗿 𝗖𝗩 &nbsp;|&nbsp;
+</a>
     <a 
       href="https://www.dropbox.com/scl/fi/46bf9h0bq3wahouwjxnvg/Certificado-de-graduacion-Henry-3.pdf?rlkey=rfod4iuay16xrsqsszc8tf7mp&raw=1"
       target="_blank"
