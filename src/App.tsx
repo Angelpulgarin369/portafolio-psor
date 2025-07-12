@@ -56,7 +56,7 @@ function App() {
         <h1>
           Miguel Ángel <br /> Rodríguez
         </h1>
-        <p>𝙎𝙤𝙥𝙚𝙩𝙧á𝙣 - 𝘼𝙣𝙩𝙞𝙤𝙦𝙪𝙞𝙖</p>
+        <p>𝗟𝗔 𝗘𝘀𝘁𝗿𝗲𝗹𝗹𝗮 - 𝘼𝙣𝙩𝙞𝙤𝙦𝙪𝙞𝙖</p>
         <img
           className="foto-perfil"
           src="https://res.cloudinary.com/dah8tj4ry/image/upload/v1749327712/foto_para_face_ttdnwn.jpg"
